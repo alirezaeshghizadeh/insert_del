@@ -1,0 +1,23 @@
+//Table Contact us
+
+//Insert a new mesage
+
+/*step 1*/
+
+//Create a Database name 'Contact'
+
+/*step 2*/
+
+//Create a Table name 'msg'
+
+/*step 3*/
+
+//Insert Message
+
+INSERT INTO 'msg'('id','fullname','email','message') VALUES ('Ali','ali23@gmail.com','Hello Thanks for your websie');
+
+//Delete Message id->1
+
+DELETE FROM 'msg' WHERE id=1;
+
+

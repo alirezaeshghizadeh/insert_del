@@ -1,0 +1,22 @@
+//Table User
+
+//Insert a new sign up user
+
+/*step 1*/
+
+//Create a Database name 'user'
+
+/*step 2*/
+
+//Create a Table name 'users' 
+
+/*step 3*/
+
+//Sign up a user
+
+INSERT INTO 'users'('id','name','family','email','numberphone') VALUES ('Ali',
+'mohammadi','alimohamadi@gmail.com','09130055123');
+
+//Delete user id->1
+
+DELETE FROM 'users' WHERE id=1;
